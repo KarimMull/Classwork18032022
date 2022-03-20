@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pawnshop>
+	<buyers>
+		 <buyer id="1">
+			<name>Adolf Hitler</name>
+		    <age>56</age>
+		    <country>Germany</country>
+			<wallet>1000</wallet>
+		</buyer>
+			<buyer id="2">
+			<name>Fidel Castro</name>
+			<age>90</age>
+			<country>Cuba</country>
+			<wallet>2000</wallet>
+		</buyer>
+		<buyer id="3">
+			<name>Ryan Gosling</name>
+			<age>42</age>
+			<country>United Kingdom</country>
+			<wallet>2500</wallet>
+		</buyer>
+		<buyer id="4">
+			<name>Vladimir Putin</name>
+			<age>70</age>
+			<country>Russia</country>
+			<wallet>2700</wallet>
+		</buyer>
+	</buyers>
+	<products>
+		<product id="1">
+			<name>gold watches</name>
+			<price>650</price>
+		</product>
+		<product id="2">
+			<name>old book</name>
+			<price>1000</price>
+		</product>
+		<product id="3">
+			<name>Mao Tse Tung's autograph</name>
+			<price>435</price>
+		</product>
+		<product id="4">
+			<name>Michelangelo's painting</name>
+			<price>1500</price>
+		</product>
+	    <product id="5">
+			<name>iphone 3000S MAX ULTRA MEGA PRO</name>
+			<price>1075</price>
+		</product>
+	    <product id="6">
+			<name>Van Darkholme mask</name>
+			<price>300</price>
+		</product>
+	    <product id="7">
+			<name>gold samurai sword</name>
+			<price>1500</price>
+		</product>
+	    <product id="8">
+			<name>collection of baseball rollers</name>
+			<price>900</price>
+		</product>
+	</products>
+	<transactions>
+		<transaction id="1">
+			<name>Adolf Hitler</name>
+			<product>Mao Tse Tung's autograph</product>	
+		</transaction>
+	   <transaction id="2">
+			<name>Ryan Gosling</name>
+			<product>Van Darkholme mask</product>	
+		</transaction>
+	   <transaction id="3">
+			<name>Vladimir Putin</name>
+			<product>iphone 3000S MAX ULTRA MEGA PRO</product>	
+		</transaction>
+	   <transaction id="4">
+			<name>Fidel Castro</name>
+			<product>gold samurai sword</product>	
+		</transaction>
+	</transactions>
+</Pawnshop>
+
+

@@ -1,0 +1,10 @@
+C:\Users\Карим\source\repos\ClassWork18032022\bin\Debug\ClassWork18032022.exe.config
+C:\Users\Карим\source\repos\ClassWork18032022\bin\Debug\ClassWork18032022.exe
+C:\Users\Карим\source\repos\ClassWork18032022\bin\Debug\ClassWork18032022.pdb
+C:\Users\Карим\source\repos\ClassWork18032022\obj\Debug\ClassWork18032022.csproj.AssemblyReference.cache
+C:\Users\Карим\source\repos\ClassWork18032022\obj\Debug\ClassWork18032022.Properties.Resources.resources
+C:\Users\Карим\source\repos\ClassWork18032022\obj\Debug\ClassWork18032022.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\ClassWork18032022\obj\Debug\ClassWork18032022.csproj.CoreCompileInputs.cache
+C:\Users\Карим\source\repos\ClassWork18032022\obj\Debug\ClassWork18032022.exe
+C:\Users\Карим\source\repos\ClassWork18032022\obj\Debug\ClassWork18032022.pdb
+C:\Users\Карим\source\repos\ClassWork18032022\obj\Debug\ClassWork18032022.Form1.resources
